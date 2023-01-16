@@ -42,7 +42,7 @@ Default design (What you will see on first skin load)
 Commission-Versions:
 &nbsp;
 
-NotEnoughWallpapers (Corsair Edition)
+NotEnoughWallpapers (Corsair iCue Edition)
 - added [Open CUE CLI](https://github.com/Legion2/open-cue-cli) support
 
 &nbsp;
