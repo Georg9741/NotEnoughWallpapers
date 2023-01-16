@@ -19,7 +19,12 @@ Setup:
 &nbsp;
 
 <sub>
-Preview of unreleased Settings.ini  
+&nbsp; &nbsp; &nbsp;
+Preview of unreleased Settings.ini
+</sub>
+
+&nbsp;
+<sub>
 (Windows 11 Notepad design, bc I am too lazy to think of another design)
 </sub>
 &nbsp;
