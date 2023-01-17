@@ -26,9 +26,6 @@ Layout2=profile2
 ;   - - -Main - - -
 ;    - - - - - - -
 
-; Profiles Icon Size
-Profiles_IconSize=128
-
 ; Profile Count
 Profiles_Count=3
 ; Rows and Columns
@@ -41,6 +38,9 @@ Profiles_Alignment=H
 ;    - - - - - - -
 ;   - - -Shape- - -
 ;    - - - - - - -
+
+; Profiles Icon Size
+Profiles_IconSize=128
 
 ; Profiles Frame Width
 Profiles_StrokeWidth=4
