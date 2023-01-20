@@ -77,7 +77,7 @@ Project Link: [https://github.com/Georg9741/NotEnoughWallpapers](https://github.
 
 ## Extra Versions
 
-NotEnoughWallpapers 2.1.0 (Corsair iCue Edition)
+### NotEnoughWallpapers 2.1.0 (Corsair iCue Edition)
 - added [Open CUE CLI](https://github.com/Legion2/open-cue-cli) support
 
 <p align="right"><a href="#top"><img src="https://bacsiseo.com/wp-content/uploads/2021/01/back-to-top-icon.png" width="24" height="24"></a></p>
