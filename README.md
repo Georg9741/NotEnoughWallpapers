@@ -12,7 +12,7 @@
 [issues-shield]: https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
 [issues-url]: https://github.com/Georg9741/NotEnoughWallpapers/issues
 [license-shield]: https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
-[license-url]: https://github.com/Georg9741/NotEnoughWallpapers/LICENSE.txt
+[license-url]: https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt
 
 <br />
 <div align="center">
