@@ -1,18 +1,17 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+<br />
+[![MIT License][license-shield]][license-url]
+<br />
+[![Stargazers][stars-shield]][stars-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
-[contributors-url]: https://github.com/Georg9741/NotEnoughWallpapers/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
-[stars-url]: https://github.com/Georg9741/NotEnoughWallpapers/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
 [issues-url]: https://github.com/Georg9741/NotEnoughWallpapers/issues
 [license-shield]: https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
 [license-url]: https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
+[stars-url]: https://github.com/Georg9741/NotEnoughWallpapers/stargazers
 
 <br />
 <div align="center">
