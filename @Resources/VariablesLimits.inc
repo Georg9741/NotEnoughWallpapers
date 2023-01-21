@@ -56,3 +56,27 @@ Profiles_Corners_Limits=(#Profiles_Corners#<#Profiles_Corners_Under#?#Profiles_C
 Background_Corners_Under=0
 Background_Corners_Above=960
 Background_Corners_Limits=(#Background_Corners#<#Background_Corners_Under#?#Background_Corners_Under#:(#Background_Corners#>#Background_Corners_Above#?#Background_Corners_Above#:#Background_Corners#))
+
+;    - - - - - - - -
+;   - - -Colors - - -
+;    - - - - - - - -
+
+; Background Fill Opacity Limits
+Background_FillOpacity_Under=2
+Background_FillOpacity_Above=255
+Background_FillOpacity_Limits=(#Background_FillOpacity#<#Background_FillOpacity_Under#?#Background_FillOpacity_Under#:(#Background_FillOpacity#>#Background_FillOpacity_Above#?#Background_FillOpacity_Above#:#Background_FillOpacity#))
+
+; Profiles Frame Opacity Limits
+Profiles_StrokeOpacity_Under=2
+Profiles_StrokeOpacity_Above=255
+Profiles_StrokeOpacity_Limits=(#Profiles_StrokeOpacity#<#Profiles_StrokeOpacity_Under#?#Profiles_StrokeOpacity_Under#:(#Profiles_StrokeOpacity#>#Profiles_StrokeOpacity_Above#?#Profiles_StrokeOpacity_Above#:#Profiles_StrokeOpacity#))
+
+; Background Frame Opacity Limits
+Background_StrokeOpacity_Under=2
+Background_StrokeOpacity_Above=255
+Background_StrokeOpacity_Limits=(#Background_StrokeOpacity#<#Background_StrokeOpacity_Under#?#Background_StrokeOpacity_Under#:(#Background_StrokeOpacity#>#Background_StrokeOpacity_Above#?#Background_StrokeOpacity_Above#:#Background_StrokeOpacity#))
+
+; Profiles OnHover Opacity Limits
+Profiles_OnHoverOpacity_Under=2
+Profiles_OnHoverOpacity_Above=255
+Profiles_OnHoverOpacity_Limits=(#Profiles_OnHoverOpacity#<#Profiles_OnHoverOpacity_Under#?#Profiles_OnHoverOpacity_Under#:(#Profiles_OnHoverOpacity#>#Profiles_OnHoverOpacity_Above#?#Profiles_OnHoverOpacity_Above#:#Profiles_OnHoverOpacity#))
