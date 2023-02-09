@@ -40,7 +40,7 @@ Profiles_Alignment=H
 ;    - - - - - - -
 
 ; Profiles Icon Size
-Profiles_IconSize=512
+Profiles_IconSize=128
 
 ; Profiles Frame Width
 Profiles_StrokeWidth=4
