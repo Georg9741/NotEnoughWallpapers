@@ -32,11 +32,6 @@ ContextAction15=[#Context[#ContextType]Action15]
 ContextTitle16=[#Context[#ContextType]Title16]
 ContextAction16=[#Context[#ContextType]Action16]
 
-; Start Settings.ini with Focus
-[Focus]
-Measure=Plugin
-Plugin=Focus
-
 ; Context Menu for each Profile
 [ContextMenuProfilesScript]
 Measure=Script
@@ -54,7 +49,7 @@ ContextStandardTitle="#ROOTCONFIG#"
 ContextStandardAction=["#ROOTCONFIGPATH#"]
 ContextStandardTitle2=-
 ContextStandardTitle3=[\x26ED] Settings
-ContextStandardAction3=[!ActivateConfig "#ROOTCONFIG#\Settings"][!CommandMeasure Focus "#ROOTCONFIG#\Settings"][!DeactivateConfig "#ROOTCONFIG#\Settings\Minimized"]
+ContextStandardAction3=[!ActivateConfig "#ROOTCONFIG#\Settings"][!DeactivateConfig "#ROOTCONFIG#\Settings\Minimized"]
 ContextStandardTitle4=-
 ContextStandardTitle5=[#ContextDesktopIcons[#ToggleDesktopIcons]]
 ContextStandardAction5=[!WriteKeyValue Variables ToggleDesktopIcons (1-#ToggleDesktopIcons#) "#@#ContextMenu.inc"][#ToggleDesktopIcons[#ToggleDesktopIcons]][!Refresh]
