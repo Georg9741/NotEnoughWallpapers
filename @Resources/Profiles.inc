@@ -4,6 +4,10 @@ MeterStyle=ProfilesStyle
 [Container1]
 Meter=Shape
 MeterStyle=ContainerStyle
+[NoImage1]
+Meter=Shape
+MeterStyle=NoImageStyle
+Container=Container1
 [1]
 Meter=Image
 MeterStyle=ImageStyle
@@ -16,6 +20,10 @@ MeterStyle=ProfilesStyle
 [Container2]
 Meter=Shape
 MeterStyle=ContainerStyle
+[NoImage2]
+Meter=Shape
+MeterStyle=NoImageStyle
+Container=Container2
 [2]
 Meter=Image
 MeterStyle=ImageStyle
@@ -28,6 +36,10 @@ MeterStyle=ProfilesStyle
 [Container3]
 Meter=Shape
 MeterStyle=ContainerStyle
+[NoImage3]
+Meter=Shape
+MeterStyle=NoImageStyle
+Container=Container3
 [3]
 Meter=Image
 MeterStyle=ImageStyle

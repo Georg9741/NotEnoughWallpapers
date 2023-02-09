@@ -14,7 +14,7 @@ OffsetY=0
 
 ; Wallpaper Engine Profiles - (Default: "profileNUMBER")
 Profile1=profile1
-Profile2=profile1
+Profile2=profile2
 ...
 
 ; Rainmeter Layouts - (Default: "profileNUMBER")
