@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGeorg9741%2FNotEnoughWallpapers&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FGeorg9741%2FNotEnoughWallpapers&countColor=%23263759)
 <br />
 [![Issues][issues-shield]][issues-url]
 <br />
