@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
-    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo">
+    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
   </a>
     <br />
     <br />
