@@ -17,38 +17,42 @@
 [stars-url]: https://github.com/Georg9741/NotEnoughWallpapers/stargazers
 
 <!-- HTML -->
-<br />
 <div align="center">
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
     <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
   </a>
-    <br />
-    <br />
-    A Rainmeter skin that allows you to set predefined Wallpaper Engine profiles and Rainmeter layouts
-    <br />
-    For those with too many wallpapers
-    <br />
-    <br />
-    <a href="https://github.com/Georg9741/NotEnoughWallpapers/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Georg9741/NotEnoughWallpapers/issues">Request Feature</a>
-    <br />
-    <br />
-    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Preview.png?raw=true">
-    <br />
-    <br />
-    <br />
-    <a href="https://www.deviantart.com/georg9741/art/924064937">DeviantART</a>
-    <br />
-    <br />
-    <br />
-    <sub>
-       Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)
-    </sub>
-    <br />
-    <br />
-    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png?raw=true)">
- </p>
+  <br>
+  <br>
+  A Rainmeter skin that allows you to set predefined Wallpaper Engine profiles and Rainmeter layouts
+  <br>
+  For those with too many wallpapers
+  <br>
+  <br>
+  <a href="https://github.com/Georg9741/NotEnoughWallpapers/issues">
+    Report Bug
+  </a>
+  ·
+  <a href="https://github.com/Georg9741/NotEnoughWallpapers/issues">
+    Request Feature
+  </a>
+  <br>
+  <br>
+  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Preview.png?raw=true">
+  <br>
+  <br>
+  <br>
+  <a href="https://www.deviantart.com/georg9741/art/924064937">
+    DeviantART
+  </a>
+  <br>
+  <br>
+  <br>
+  <sub>
+    Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)
+  </sub>
+  <br>
+  <br>
+  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png?raw=true)">
 </div>
 
 <!-- MD -->
