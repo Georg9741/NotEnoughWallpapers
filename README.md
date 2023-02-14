@@ -16,12 +16,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
-    <img src="https://user-images.githubusercontent.com/96758662/213765299-7dbfca03-f289-4d8c-a7be-08f71c9f4e71.png" alt="Logo" width="500" height="240">
+    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="Logo" width="500" height="240">
   </a>
     <br />
     <br />
     A Rainmeter skin that allows you to set predefined Wallpaper Engine profiles and Rainmeter layouts
-    <br />
     <br />
     For those with too many wallpapers
     <br />
@@ -31,32 +30,27 @@
     <a href="https://github.com/Georg9741/NotEnoughWallpapers/issues">Request Feature</a>
     <br />
     <br />
+    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Preview.png?raw=true">
+    <br />
+    <br />
+    <br />
+    <a href="https://www.deviantart.com/georg9741/art/924064937">DeviantART</a>
+    <br />
+    <br />
+    <br />
+    <sub>
+       Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)
+    </sub>
+    <br />
+    <br />
+    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png?raw=true)">
  </p>
- <img src="https://user-images.githubusercontent.com/96758662/213772190-6d941bf1-db40-4a03-8878-2a00ce2322ad.png">
 </div>
 
-&nbsp;
+<br />
+<div align="center">
 
-[DeviantART Page](https://www.deviantart.com/georg9741/art/924064937)
-
-&nbsp;
-<sub>
-&nbsp; &nbsp; &nbsp;
-Preview of unreleased Settings.ini
-</sub>
-&nbsp;
-<sub>
-(Windows 11 Notepad design, bc I am too lazy to think of another design)
-</sub>
-&nbsp;
-
-![Pre-Preview](https://user-images.githubusercontent.com/96758662/212779120-b6606ad1-6388-405f-bf93-a4b0042c62e0.png)
-&nbsp;
-
-<sup>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-Default design (What you will see on first skin load)
-</sup>
+</div>
 
 ## Setup
 1. If your Wallpaper Engine path isn't the default,  
@@ -75,7 +69,7 @@ Discord - Georg9741#3646
 
 Project Link: [https://github.com/Georg9741/NotEnoughWallpapers](https://github.com/Georg9741/NotEnoughWallpapers)
 
-## Extra Versions
+## Special Versions
 
 ### NotEnoughWallpapers 2.1.0 (Corsair iCue Edition)
 - added [Open CUE CLI](https://github.com/Legion2/open-cue-cli) support
