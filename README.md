@@ -1,22 +1,11 @@
-<!-- HTML -->
 <div id="top"></div>
 
-<!-- HTML & MD -->
-[![Issues][issues-shield]][issues-url]
-<br />
-[![MIT License][license-shield]][license-url]
-<br />
-[![Stargazers][stars-shield]][stars-url]
+[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/issues)
+<br>
+[![MIT License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)
+<br>
+[![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
 
-<!-- MD -->
-[issues-shield]: https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
-[issues-url]: https://github.com/Georg9741/NotEnoughWallpapers/issues
-[license-shield]: https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
-[license-url]: https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt
-[stars-shield]: https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge
-[stars-url]: https://github.com/Georg9741/NotEnoughWallpapers/stargazers
-
-<!-- HTML -->
 <div align="center">
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
     <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
@@ -47,15 +36,13 @@
   <br>
   <br>
   <br>
+    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png?raw=true)">
+  <br>
   <sub>
     Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)
   </sub>
-  <br>
-  <br>
-  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png?raw=true)">
 </div>
 
-<!-- MD -->
 ## Setup
 1. If your Wallpaper Engine path isn't the default,  
 check Variables.inc and write your execution path in WEPath
@@ -78,5 +65,4 @@ Project Link: [https://github.com/Georg9741/NotEnoughWallpapers](https://github.
 ### NotEnoughWallpapers 2.1.0 (Corsair iCue Edition)
 - added [Open CUE CLI](https://github.com/Legion2/open-cue-cli) support
 
-<!-- HTML -->
-<p align="right"><a href="#top"><img src="https://bacsiseo.com/wp-content/uploads/2021/01/back-to-top-icon.png" width="24" height="24"></a></p>
+<p align="right"><a href="#top"><img src="https://bacsiseo.com/wp-content/uploads/2021/01/back-to-top-icon.png" title="back to top" width="24" height="24"></a></p>
