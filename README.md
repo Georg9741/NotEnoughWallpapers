@@ -7,7 +7,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/Georg9741/NotEnoughWallpapers?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/commits/main)  
 [![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
 
-<!-- TextLogo -->
 <div align="center">
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
     <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
