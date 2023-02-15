@@ -2,9 +2,9 @@
 <div id="top"></div>
 
 <!-- Shields -->
-[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/issues)  
-[![MIT License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)  
-[![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
+[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/issues)  
+[![License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)  
+[![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
 
 <!-- TextLogo -->
 <div align="center">
