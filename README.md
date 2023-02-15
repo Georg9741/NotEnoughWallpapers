@@ -2,9 +2,10 @@
 <div id="top"></div>
 
 <!-- Badges -->
-[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/issues)  
-[![License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)  
-[![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
+[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/issues)  
+[![License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)  
+![GitHub last commit](https://img.shields.io/github/last-commit/Georg9741/NotEnoughWallpapers?logo=GitHub&style=for-the-badge)  
+[![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
 
 <!-- TextLogo -->
 <div align="center">
