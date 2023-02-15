@@ -19,12 +19,6 @@
       <br>
     For those with too many wallpapers
   </p>
-</div>
-
-<!-- ------------------------------------------------------------ -->
-
-<div align="center">
-  <br>
   <a href="https://github.com/Georg9741/NotEnoughWallpapers/issues">
     Report Bug
   </a>
@@ -34,21 +28,14 @@
   </a>
   <br>
   <br>
-  <br>
   <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Preview.png?raw=true">
-  <br>
   <br>
   <br>
   <a href="https://www.deviantart.com/georg9741/art/924064937">
     DeviantART
   </a>
   <br>
-</div>
-
-<br>
-<br>
-
-<div align="center">
+  <br>
   <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png" alt="Settings Preview">
   <p><sup>Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)</sup></p>
 </div>
