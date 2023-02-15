@@ -4,7 +4,7 @@
 <br>
 [![MIT License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)
 <br>
-[![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
 
 <div align="center">
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
