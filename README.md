@@ -1,7 +1,7 @@
 <!-- Top Anchor -->
 <div id="top"></div>
 
-<!-- Shields -->
+<!-- Badges -->
 [![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/issues)  
 [![License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)  
 [![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
