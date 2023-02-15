@@ -1,21 +1,28 @@
+<!-- Top Anchor -->
 <div id="top"></div>
 
-[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/issues)
-<br>
-[![MIT License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)
-<br>
+<!-- Shields -->
+[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/issues)  
+[![MIT License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge&logo=GitHub)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)  
 [![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
 
+<!-- TextLogo -->
 <div align="center">
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
     <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
   </a>
   <br>
   <br>
-  A Rainmeter skin that allows you to set predefined Wallpaper Engine profiles and Rainmeter layouts
-  <br>
-  For those with too many wallpapers
-  <br>
+  <p>
+    A Rainmeter skin that allows you to set predefined Wallpaper Engine profiles and Rainmeter layouts
+      <br>
+    For those with too many wallpapers
+  </p>
+</div>
+
+<!-- ------------------------------------------------------------ -->
+
+<div align="center">
   <br>
   <a href="https://github.com/Georg9741/NotEnoughWallpapers/issues">
     Report Bug
@@ -26,6 +33,7 @@
   </a>
   <br>
   <br>
+  <br>
   <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Preview.png?raw=true">
   <br>
   <br>
@@ -34,13 +42,14 @@
     DeviantART
   </a>
   <br>
-  <br>
-  <br>
-    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png?raw=true)">
-  <br>
-  <sub>
-    Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)
-  </sub>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png" alt="Settings Preview">
+  <p><sup>Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)</sup></p>
 </div>
 
 ## Setup
