@@ -8,6 +8,7 @@
 [![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
 
 <div align="center">
+  <br>
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
     <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
   </a>
