@@ -8,19 +8,19 @@ WEPath=C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\wallpaper3
 OffsetX=0
 OffsetY=0
 
-;    - - - - - - - - - - -
-;   - - -Rename Stuff - - -
-;    - - - - - - - - - - -
+;    - - - - - - - - - - - - - - - - - -
+;   - - -set your profile names here- - -
+;    - - - - - - - - - - - - - - - - - -
 
 ; Wallpaper Engine Profiles - (Default: "profileNUMBER")
-Profile1=profile1
-Profile2=profile2
-...
+;Profile1=Theme1
+;Profile2=Theme2
+;...
 
 ; Rainmeter Layouts - (Default: "profileNUMBER")
-Layout1=profile1
-Layout2=profile2
-...
+;Layout1=Theme1
+;Layout2=Theme2
+;...
 
 ;    - - - - - - -
 ;   - - -Main - - -
