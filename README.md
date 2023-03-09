@@ -2,15 +2,17 @@
 <div id="top"></div>
 
 <!-- Badges -->
-[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/issues)  
-[![License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/Georg9741/NotEnoughWallpapers?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/commits/main)  
+[![Issues](https://img.shields.io/github/issues/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/issues)
+[![License](https://img.shields.io/github/license/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/blob/main/LICENSE.txt)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Georg9741/NotEnoughWallpapers?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/commits/main)
 [![Stargazers](https://img.shields.io/github/stars/Georg9741/NotEnoughWallpapers.svg?logo=GitHub&style=for-the-badge)](https://github.com/Georg9741/NotEnoughWallpapers/stargazers)
+![GitHub all releases](https://img.shields.io/github/downloads/Georg9741/NotEnoughWallpapers/total?logo=GitHub&style=for-the-badge)
+
 
 <div align="center">
   <br>
   <a href="https://github.com/Georg9741/NotEnoughWallpapers">
-    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
+    <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.gitresources/Images/TextLogo.png?raw=true" alt="TextLogo" width="550" height="264">
   </a>
   <br>
   <br>
@@ -28,7 +30,7 @@
   </a>
   <br>
   <br>
-  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Preview.png?raw=true">
+  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.gitresources/Images/Preview.png?raw=true" alt="Menu Preview">
   <br>
   <br>
   <a href="https://www.deviantart.com/georg9741/art/924064937">
@@ -36,7 +38,7 @@
   </a>
   <br>
   <br>
-  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.Resources/Images/Settings.png" alt="Settings Preview">
+  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.gitresources/Images/Settings.png" alt="Settings Preview">
   <p><sup>Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)</sup></p>
 </div>
 
