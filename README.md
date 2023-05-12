@@ -36,10 +36,6 @@
   <a href="https://www.deviantart.com/georg9741/art/924064937">
     DeviantART
   </a>
-  <br>
-  <br>
-  <img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.gitresources/Images/Settings.png" alt="Settings Preview">
-  <p><sup>Preview of unreleased Settings.ini (Windows 11 Notepad design, bc I am too lazy to think of another design)</sup></p>
 </div>
 
 ## ToDo
