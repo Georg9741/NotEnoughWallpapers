@@ -45,7 +45,7 @@
 ## ToDo
 1. Change Settings.ini Design to new Notepad Version (with tabs)
 2. Add a "Tab" to change profile names, instead of going into the Variables.inc File
-3. Fix problem: Terminal opening in Corsair iCue Version
+3. Fix problem: Terminal opening in Corsair iCue Version (source code not included in this repository)
 4. Add the special Corsair iCue Version for download (I am too lazy for anything)
 
 ## Setup
