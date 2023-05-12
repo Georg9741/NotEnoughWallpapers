@@ -1,0 +1,36 @@
+function Initialize()
+  local num = SELF:GetNumberOption("Number")
+  local file = io.open(SKIN:MakePathAbsolute(SELF:GetOption("IncFile")), "w")
+  local t = {}
+
+  table.insert(t, '[Variables]')
+  table.insert(t, '; Profiles Context Menu')
+  for n=1,num do
+    table.insert(t, 'Context'..n..'Title="#ROOTCONFIG#"')
+    table.insert(t, 'Context'..n..'Action=["#ROOTCONFIGPATH#"]')
+    table.insert(t, 'Context'..n..'Title2=-')
+    table.insert(t, 'Context'..n..'Title3=[\\x26ED] Settings')
+    table.insert(t, 'Context'..n..'Action3=[!ActivateConfig "#ROOTCONFIG#\\Settings"]')
+    table.insert(t, 'Context'..n..'Title4=-')
+    table.insert(t, 'Context'..n..'Title5=Add Preview')
+    table.insert(t, 'Context'..n..'Action5=[!CommandMeasure PreviewPathMeasure Run][!SetVariable Path '..n..'][!WriteKeyValue NoImage'..n..' Hidden 1 "#@#PreviewIncMeasures.inc"][!WriteKeyValue '..n..' MeasureName PreviewImageMeasure'..n..' "#@#PreviewIncMeasures.inc"]')
+    table.insert(t, 'Context'..n..'Title6=Remove Preview')
+    table.insert(t, 'Context'..n..'Action6=[!WriteKeyValue '..n..' MeasureName "" "#@#PreviewIncMeasures.inc"][!WriteKeyValue NoImage'..n..' Hidden 0 "#@#PreviewIncMeasures.inc"][!Refresh]')
+    table.insert(t, 'Context'..n..'Title7=-')
+    table.insert(t, 'Context'..n..'Title8=[#ContextDesktopIcons[#ToggleDesktopIcons]]')
+    table.insert(t, 'Context'..n..'Action8=[!WriteKeyValue Variables ToggleDesktopIcons (1-#ToggleDesktopIcons#) "#@#ContextMenu.inc"][#ToggleDesktopIcons[#ToggleDesktopIcons]][!Refresh]')
+    table.insert(t, 'Context'..n..'Title9=-')
+    table.insert(t, 'Context'..n..'Title10=[#ContextDraggable[#ToggleDraggable]]')
+    table.insert(t, 'Context'..n..'Action10=[!WriteKeyValue Variables ToggleDraggable (1-#ToggleDraggable#) "#@#ContextMenu.inc"][!Draggable #ToggleDraggable#][!Refresh]')
+    table.insert(t, 'Context'..n..'Title11=-')
+    table.insert(t, 'Context'..n..'Title12=Open Wallpaper Engine')
+    table.insert(t, 'Context'..n..'Action12=["#WEPath#"]')
+    table.insert(t, 'Context'..n..'Title13=-')
+    table.insert(t, 'Context'..n..'Title14=Default Skin Menu[\\x0009][\\x23F5]')
+    table.insert(t, 'Context'..n..'Action14=[!SkinMenu]')
+    table.insert(t, 'Context'..n..'Title15=')
+  end
+
+  file:write(table.concat(t, "\n"))
+  file:close()
+end
