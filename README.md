@@ -38,12 +38,6 @@
   </a>
 </div>
 
-## ToDo
-1. Change Settings.ini Design to new Notepad Version (with tabs)
-2. Add a "Tab" to change profile names, instead of going into the Variables.inc File
-3. Fix problem: Terminal opening in Corsair iCue Version (source code not included in this repository)
-4. Add the special Corsair iCue Version for download (I am too lazy for anything)
-
 ## Setup
 1. If your Wallpaper Engine path isn't the default,  
 check Variables.inc and write your execution path in WEPath
@@ -55,6 +49,12 @@ name them *profileNUMBER* or add your profiles in Variables.inc
 (accessible from the Context Menu)
 *. Tip: Change Transparency of Menu.ini in Rainmeter Menu, for Fade in on hover
 5. Change the Preview Image for each Profile via the Context Menu
+
+## ToDo
+- Change Settings.ini Design to new Notepad Version (with tabs)
+- Add a "Tab" to change profile names, instead of going into the Variables.inc File
+- Find a solution for Terminal opening in Corsair iCue Version (source code not included in this repository)
+- Add Corsair iCue Edition to repository
 
 ## Contact
 
