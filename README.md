@@ -55,6 +55,8 @@ name them *profileNUMBER* or add your profiles in Variables.inc
 - Add a "Tab" to change profile names, instead of going into the Variables.inc File
 - Find a solution for Terminal opening in Corsair iCue Version (source code not included in this repository)
 - Add Corsair iCue Edition to repository
+- Change Padding Options Limit to 999 (current: 99)
+- Fix: Padding Options going out of box if numbers under 10
 
 ## Contact
 
