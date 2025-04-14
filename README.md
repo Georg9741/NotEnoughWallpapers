@@ -39,28 +39,23 @@
 </div>
 
 ## Setup
-1. If your Wallpaper Engine path isn't the default,  
+0. If your Wallpaper Engine path isn't the default  
 check Variables.inc and write your execution path in WEPath
-2. Create Profiles in Wallpaper Engine to run them with the Menu,  
+1. Create Profiles in Wallpaper Engine to run them with the Menu  
+(you can create profiles under *Displays* in Wallpaper Engine)  
 name them *profileNUMBER* or add your profiles in Variables.inc
-3. Create Rainmeter Layouts in the Rainmeter Menu in the "Themes" Section,  
+2. Create Rainmeter Layouts in the Rainmeter Menu  
 name them *profileNUMBER* or add your profiles in Variables.inc
-4. Configure the Design of NEW (NotEnoughWallpapers) in Settings.ini to your liking  
-(accessible from the Context Menu)
-*. Tip: Change Transparency of Menu.ini in Rainmeter Menu, for Fade in on hover
-5. Change the Preview Image for each Profile via the Context Menu
+3. Configure the Design of NotEnoughWallpapers in Settings.ini to your liking  
+(accessible from the Context Menu)  
+Tip: Change Transparency of Menu.ini in the Rainmeter Application (~100%), for Fade in on hover
+4. Change the Preview Image for each Profile via the Context Menu
 
-## ToDo
-- Change Settings.ini Design to new Notepad Version (with tabs)
-- Add a "Tab" to change profile names, instead of going into the Variables.inc File
-- Find a solution for Terminal opening in Corsair iCue Version (source code not included in this repository)
-- Add Corsair iCue Edition to repository
-- Change Padding Options Limit to 999 (current: 99)
-- Fix: Padding Options going out of box if numbers under 10
+Screenshots or a video tutorial will be created in the future.
+In the meantime, please contact me if you have any problems.
 
 ## Contact
-
-Discord - Georg9741#3646
+Discord - Georg9741
 
 Project Link: [https://github.com/Georg9741/NotEnoughWallpapers](https://github.com/Georg9741/NotEnoughWallpapers)
 
@@ -68,5 +63,7 @@ Project Link: [https://github.com/Georg9741/NotEnoughWallpapers](https://github.
 
 ### NotEnoughWallpapers 2.1.0 (Corsair iCue Edition)
 - added [Open CUE CLI](https://github.com/Legion2/open-cue-cli) support
+- If you are interested in this version, contact me.  
+I am too lazy to add it into the repository and will need to search for the package file.
 
-<p align="right"><a href="#top"><img src="https://bacsiseo.com/wp-content/uploads/2021/01/back-to-top-icon.png" title="back to top" width="24" height="24"></a></p>
+<p align="right"><a href="#top"><img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.gitresources/Images/back-to-top.png?raw=true" title="back to top" width="24" height="24"></a></p>
