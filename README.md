@@ -51,8 +51,7 @@ name them *profileNUMBER* or add your profiles in Variables.inc
 Tip: Change Transparency of Menu.ini in the Rainmeter Application (~100%), for Fade in on hover
 4. Change the Preview Image for each Profile via the Context Menu
 
-Screenshots or a video tutorial will be created in the future.
-In the meantime, please contact me if you have any problems.
+<img src="https://github.com/Georg9741/NotEnoughWallpapers/blob/main/.gitresources/Images/setup.png?raw=true" title="setup">
 
 ## Contact
 Discord - Georg9741
